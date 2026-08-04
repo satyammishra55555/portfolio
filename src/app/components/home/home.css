@@ -1,0 +1,49 @@
+.hero{
+
+    min-height:100vh;
+
+    background:#111827;
+
+    color:white;
+
+    display:flex;
+
+    align-items:center;
+
+    padding-top:90px;
+
+}
+
+h1{
+
+    font-size:60px;
+
+    font-weight:bold;
+
+}
+
+h2{
+
+    color:#38bdf8;
+
+}
+
+p{
+
+    margin:25px 0;
+
+    font-size:18px;
+
+}
+
+.profile-image{
+
+    width:350px;
+
+    border-radius:50%;
+
+    border:6px solid #38bdf8;
+
+    box-shadow:0 0 30px #38bdf8;
+
+}
