@@ -1,59 +1,192 @@
-# Portfolio
+# 👨‍💻 Satyam Mishra Portfolio
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.1.2.
+A modern and responsive **Java Full Stack Developer Portfolio** built with **Angular 22**, showcasing my skills, experience, projects, education, and contact information.
 
-## Development server
+---
 
-To start a local development server, run:
+## 🚀 Live Demo
+
+🔗 https://satyammishra55555.github.io/portfolio/
+
+---
+
+## 📸 Preview
+
+![Portfolio](public/portfolio-preview.png)
+
+---
+
+## ✨ Features
+
+- 🏠 Modern Hero Section
+- 👤 About Me
+- 💻 Technical Skills
+- 💼 Work Experience
+- 🎓 Education
+- 🚀 Featured Projects
+- 📞 Contact Section
+- 🌙 Dark Professional UI
+- 📱 Fully Responsive Design
+- 🎨 Modern Animations
+- ⚡ Fast Performance
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- Angular 22
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap 5
+
+### Tools
+
+- VS Code
+- Git
+- GitHub
+- Angular CLI
+
+---
+
+## 📂 Project Structure
+
+```text
+portfolio/
+│
+├── public/
+│
+├── src/
+│
+│── app/
+│ ├── components/
+│ │ ├── navbar/
+│ │ ├── home/
+│ │ ├── about/
+│ │ ├── skills/
+│ │ ├── experience/
+│ │ ├── education/
+│ │ ├── projects/
+│ │ ├── contact/
+│ │ └── footer/
+│
+├── styles.css
+├── angular.json
+└── package.json
+```
+
+---
+
+## 💼 Featured Projects
+
+### 🚗 AutoZone
+
+Automotive Parts Inventory & Order Management System developed using:
+
+- Java
+- Spring Boot
+- Angular
+- Kafka
+- Docker
+- MySQL
+
+---
+
+### 🏥 CivicBridge
+
+Social Welfare Portal developed using:
+
+- Java
+- Spring Boot
+- Angular
+- Microservices
+- MySQL
+- AWS
+
+---
+
+## 📷 Screenshots
+
+### Home
+
+_Add Screenshot_
+
+### Skills
+
+_Add Screenshot_
+
+### Projects
+
+_Add Screenshot_
+
+### Contact
+
+_Add Screenshot_
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/satyammishra55555/portfolio.git
+```
+
+Go to project
+
+```bash
+cd portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run application
 
 ```bash
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Open
 
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
+```
+http://localhost:4200
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+---
 
-```bash
-ng generate --help
-```
+## 📬 Contact
 
-## Building
+**Satyam Mishra**
 
-To build the project run:
+📧 Email: sataymmishra75690@gmail.com
 
-```bash
-ng build
-```
+📱 Phone: +91 75690 63126
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+💼 LinkedIn:
+https://linkedin.com/in/your-profile
 
-## Running unit tests
+💻 GitHub:
+https://github.com/satyammishra55555
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+---
 
-```bash
-ng test
-```
+## ⭐ Support
 
-## Running end-to-end tests
+If you like this project, don't forget to ⭐ this repository.
 
-For end-to-end (e2e) testing, run:
+---
 
-```bash
-ng e2e
-```
+## 📄 License
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+This project is licensed under the MIT License.
 
-## Additional Resources
+---
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+© 2026 Satyam Mishra. All Rights Reserved.
