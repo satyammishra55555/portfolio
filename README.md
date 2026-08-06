@@ -6,7 +6,7 @@ A modern and responsive **Java Full Stack Developer Portfolio** built with **Ang
 
 ## 🚀 Live Demo
 
-🔗 https://satyammishra55555.github.io/portfolio/
+🔗 https://portfolio-satyam-mishra.vercel.app/
 
 ---
 
